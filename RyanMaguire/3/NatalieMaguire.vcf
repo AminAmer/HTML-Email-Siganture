@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 12.0.1//EN
+N:Maguire;Natalie;;;
+FN: Natalie  Maguire 
+ORG:ProJex;
+TITLE:Office Manager
+EMAIL;type=INTERNET;type=pref:Natalie@projexinteriors.com
+TEL;type=WORK;type=VOICE;type=pref:0113 251 2081
+ADR;type=WORK;type=pref:;;Building 3\, City West Business Park;Leeds;West Yorkshire;LS12 6BG;United Kingdom
+URL;type=WORK;type=pref:www.projexinteriors.com
+END:VCARD
